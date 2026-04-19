@@ -7,6 +7,9 @@ Images are hosted here to keep source repositories lightweight — avoiding git 
 ## Structure
 
 ```text
+common/                 # Shared across projects
+└── makerworld/images/  # Shared MakerWorld banners & logos
+
 homeracker/             # CC BY-SA 4.0
 ├── img/                # README + GitHub Pages images
 └── models/             # MakerWorld description images
