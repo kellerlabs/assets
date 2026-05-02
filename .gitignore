@@ -1,3 +1,4 @@
 DESCRIPTION.html
 .vscode/
 .venv/
+*.xcf
