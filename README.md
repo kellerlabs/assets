@@ -35,7 +35,7 @@ Reference images via `raw.githubusercontent.com`:
 ![alt](https://raw.githubusercontent.com/kellerlabs/assets/main/homeracker/img/example.png)
 ```
 
-See [ADR-001](https://github.com/kellerlabs/homeracker/blob/main/docs/decisions/ADR-001-image-hosting-assets-repo.md) for design rationale.
+See [image-hosting-assets-repo](https://github.com/kellerlabs/homeracker/blob/main/docs/decisions/image-hosting-assets-repo.md) for design rationale.
 
 ## 🚀 Quick Start
 
